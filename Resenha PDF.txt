@@ -1,0 +1,11 @@
+O estudo destaca a importância da eficiência energética no contexto dos Objetivos de Desenvolvimento Sustentável (ODS) da ONU, particularmente os ODS 7 e 9, que tratam do acesso a energia sustentável e do desenvolvimento industrial sustentável. A autora explora a migração de sistemas locais para a nuvem como uma estratégia potencial para reduzir custos e aumentar a sustentabilidade, com foco nas questões energéticas associadas a essa transição.
+
+A pesquisa se baseia em uma revisão bibliográfica, utilizando fontes acadêmicas, artigos de jornais e documentos de empresas de tecnologia para analisar se a migração para a nuvem realmente contribui para a eficiência energética.
+
+Os resultados indicam que os data centers, essenciais para os serviços de nuvem, consomem uma quantidade significativa de energia, com uma pegada de carbono considerável. A autora cita estudos que mostram que esses centros podem consumir energia equivalente a dezenas de milhares de residências e que a migração para a nuvem pode reduzir o consumo energético em até 95% em alguns casos.
+
+A AWS e outras grandes empresas de tecnologia estão investindo em energias renováveis para alimentar seus data centers, e a migração de sistemas locais para a nuvem tem o potencial de diminuir a pegada de carbono, especialmente se os serviços forem alimentados por fontes de energia renováveis.
+
+Na discussão, a autora levanta questões sobre a real eficiência das migrações para a nuvem, destacando a necessidade de mais estudos sobre o impacto ambiental e energético. Ela questiona a eficácia de sistemas de software inativos ("zumbis") na nuvem, que continuam consumindo energia sem fornecer benefícios reais.
+
+O trabalho conclui que, embora a migração para a nuvem possa oferecer vantagens em termos de eficiência energética e sustentabilidade, há lacunas significativas na pesquisa acadêmica sobre o tema, especialmente em relação ao impacto real dessas migrações no consumo de energia e nas emissões de carbono. A autora sugere a necessidade de mais estudos para validar as alegações feitas pelas empresas de tecnologia e para entender melhor as implicações dessas transições.
